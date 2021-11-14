@@ -1,4 +1,4 @@
-## Objective of the repo
+## Objective of the repository
 
 Stack:
 
